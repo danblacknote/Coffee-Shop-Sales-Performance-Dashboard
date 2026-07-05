@@ -3,7 +3,7 @@
 This dashboard provides a comprehensive overview of sales performance, transaction trends, and product category insights for a multi-location coffee shop chain. It is designed to help stakeholders quickly understand revenue patterns, customer behavior, and operational efficiency across different time dimensions.
 
  🖼️ Dashboard Preview
-![Coffee Shop Sales Dashboard](./images_and_other_documents/coff.JPG)
+![Coffee Shop Sales Dashboard](./image_and_other_documents/coff.JPG)
 > Figure 1: Full dashboard view showing revenue by month, transactions by day/week/hour, and product-level performance.
 
 
